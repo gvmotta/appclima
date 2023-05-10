@@ -5,5 +5,5 @@ This project was developed to the course Frontstart!
 It's a simple Weather app page made with HTML and CSS, that's the second project developed of many other that will come from the course Frontstart! :smile:
 
 ## Knowledges :rocket:
-- Uses for display: flex/block
+- Uses for display: flex/block/grid
 - Uses for position: relative/absolute
